@@ -673,8 +673,8 @@ Initial public release. Covers the three milestones (m1–m3) in the README road
 - Source files are never opened — the scanner walks only prose channels a coding agent
   ingests as context.
 
-[Unreleased]: https://github.com/SuperMarioYL/agentguard/compare/v0.4.0...HEAD
-[0.4.0]: https://github.com/SuperMarioYL/agentguard/compare/v0.3.0...v0.4.0
-[0.3.0]: https://github.com/SuperMarioYL/agentguard/compare/v0.2.0...v0.3.0
-[0.2.0]: https://github.com/SuperMarioYL/agentguard/compare/v0.1.0...v0.2.0
-[0.1.0]: https://github.com/SuperMarioYL/agentguard/releases/tag/v0.1.0
+[Unreleased]: https://github.com/aayusholi57-pixel/agentguard/compare/v0.4.0...HEAD
+[0.4.0]: https://github.com/aayusholi57-pixel/agentguard/compare/v0.3.0...v0.4.0
+[0.3.0]: https://github.com/aayusholi57-pixel/agentguard/compare/v0.2.0...v0.3.0
+[0.2.0]: https://github.com/aayusholi57-pixel/agentguard/compare/v0.1.0...v0.2.0
+[0.1.0]: https://github.com/aayusholi57-pixel/agentguard/releases/tag/v0.1.0
