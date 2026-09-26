@@ -1,4 +1,4 @@
-module github.com/SuperMarioYL/agentguard
+module github.com/aayusholi57-pixel/agentguard
 
 go 1.24
 
