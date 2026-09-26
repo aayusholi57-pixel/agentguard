@@ -19,10 +19,10 @@ import (
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"
 
-	"github.com/SuperMarioYL/agentguard/internal/config"
-	"github.com/SuperMarioYL/agentguard/internal/detect"
-	"github.com/SuperMarioYL/agentguard/internal/report"
-	"github.com/SuperMarioYL/agentguard/internal/scan"
+	"github.com/aayusholi57-pixel/agentguard/internal/config"
+	"github.com/aayusholi57-pixel/agentguard/internal/detect"
+	"github.com/aayusholi57-pixel/agentguard/internal/report"
+	"github.com/aayusholi57-pixel/agentguard/internal/scan"
 )
 
 // version is overridden via -ldflags "-X main.version=v0.1.0" at release.
