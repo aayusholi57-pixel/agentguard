@@ -1,12 +1,12 @@
 {
   "schema": 3,
   "name": "agentguard",
-  "github": "https://github.com/SuperMarioYL/agentguard",
-  "host": "agentguard.lei6393.com",
+  "github": "https://github.com/aayusholi57-pixel/agentguard",
+  "host": "",
   "palette": "auto",
   "lang": {
-    "primary": "zh",
-    "toggle": true
+    "primary": "en",
+    "toggle": false
   },
   "meta": {
     "visual_profile": "neon-particle",
@@ -189,7 +189,7 @@
       "zh": "对仓库自带的合成 npm 与 Go 依赖执行扫描。演示使用 report-only 模式，因此命中规则也不会中断脚本。",
       "en": "Scan the repository’s synthetic npm and Go dependency fixtures. Report-only mode prevents findings from interrupting the example script."
     },
-    "source": "https://github.com/SuperMarioYL/agentguard/blob/main/docs/demo-results.json",
+    "source": "https://github.com/aayusholi57-pixel/agentguard/blob/main/docs/demo-results.json",
     "steps": [
       {
         "label": {
@@ -250,7 +250,7 @@
           "zh": "安装",
           "en": "Install"
         },
-        "code": "git clone https://github.com/SuperMarioYL/agentguard.git\ncd agentguard\ngo build -o bin/agentguard ./cmd/agentguard"
+        "code": "git clone https://github.com/aayusholi57-pixel/agentguard.git\ncd agentguard\ngo build -o bin/agentguard ./cmd/agentguard"
       },
       {
         "title": {
